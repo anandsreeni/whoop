@@ -1,38 +1,44 @@
-WHOOP 🕒
-A clean, responsive website for WHOOP Watches that showcases high-performance wearables. Built using HTML, CSS, and optionally JavaScript, the site includes a Home, Products, and Contact page for users to explore WHOOP’s offerings and reach out.
+WHOOP Watches Website
+A modern, responsive website built to showcase WHOOP performance wearables, including key product highlights and an intuitive way for users to reach out.
 
-🌐 Website Pages
-🏠 Home Page
-Introduces the WHOOP brand.
+🔍 Overview
+This project is a front-end website for WHOOP, a performance and fitness tracking brand. The site includes:
 
+Home Page – Introduction to WHOOP and its mission
 
+Products Page – Display of WHOOP's latest wearable technology
 
-Emphasizes performance tracking and health optimization.
+Contact Page – Enables users to get in touch with the brand
 
-⌚ Products Page
-Displays a selection of WHOOP watches.
+💡 Features
+Clean and responsive design
 
-Includes product names, images, and short descriptions.
+Product showcase with consistent card layout
 
-Layout styled for consistency and user engagement.
+Simple, accessible contact section
 
-📞 Contact Page
-Allows users to reach out for queries or support.
+Minimalist UI/UX inspired by WHOOP's brand identity
 
-Simple design with phone number and email.
-
-Clean and minimalistic interface.
-
-🛠️ Tech Stack
+🛠️ Built With
 HTML5
 
 CSS3
 
+JavaScript (optional, if used)
+
+Bootstrap (optional, if used)
+
+📁 Pages
+index.html – Home page introducing the brand and its vision
+
+products.html – Grid layout displaying WHOOP watches with images and descriptions
+
+contact.html – Contact section with email and phone support
 
 
-Bootstrap  for responsive design
+📬 Contact
+For feedback, suggestions, or collaboration inquiries:
 
+📧 Email: yourname@example.com
 
-
-
-
+📞 Phone: +91-XXXXXXXXXX
