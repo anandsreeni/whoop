@@ -1,59 +1,38 @@
-# Whoopofficial
+WHOOP 🕒
+A clean, responsive website for WHOOP Watches that showcases high-performance wearables. Built using HTML, CSS, and optionally JavaScript, the site includes a Home, Products, and Contact page for users to explore WHOOP’s offerings and reach out.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
+🌐 Website Pages
+🏠 Home Page
+Introduces the WHOOP brand.
 
-## Development server
 
-To start a local development server, run:
 
-```bash
-ng serve
-```
+Emphasizes performance tracking and health optimization.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+⌚ Products Page
+Displays a selection of WHOOP watches.
 
-## Code scaffolding
+Includes product names, images, and short descriptions.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Layout styled for consistency and user engagement.
 
-```bash
-ng generate component component-name
-```
+📞 Contact Page
+Allows users to reach out for queries or support.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Simple design with phone number and email.
 
-```bash
-ng generate --help
-```
+Clean and minimalistic interface.
 
-## Building
+🛠️ Tech Stack
+HTML5
 
-To build the project run:
+CSS3
 
-```bash
-ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
+Bootstrap  for responsive design
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
 
-```bash
-ng test
-```
 
-## Running end-to-end tests
 
-For end-to-end (e2e) testing, run:
 
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
